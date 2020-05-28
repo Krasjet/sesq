@@ -12,7 +12,7 @@ Due to the limitations of GitHub's Markdown. Please see
 [**here**](https://krasjet.com/voice/sesq/) for detailed introduction.
 
 <p align="center">
-  <img width=480 src="https://krasjet.com/voice/sesq/imgs/screenshot.png">
+  <img width=700 src="https://krasjet.com/voice/sesq/imgs/screenshot.png">
 </p>
 
 Note that `italic` in the color theme definition means "medium" weight, not
