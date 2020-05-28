@@ -1,0 +1,14 @@
+<svg width="150px" height="100px" baseProfile="full" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <rect width='150' height='100' fill='#f4f7f7'></rect>
+  <rect x='12'  y='24' width='22' height='22' fill='#74A3B7'></rect>
+  <rect x='38'  y='24' width='22' height='22' fill='#818AC2'></rect>
+  <rect x='64'  y='24' width='22' height='22' fill='#507585'></rect>
+  <rect x='90'  y='24' width='22' height='22' fill='#909494'></rect>
+  <rect x='116' y='24' width='22' height='22' fill='#7c8080'></rect>
+
+  <rect x='12'  y='54' width='22' height='22' fill='#5c6060'></rect>
+  <rect x='38'  y='54' width='22' height='22' fill='#545858'></rect>
+  <rect x='64'  y='54' width='22' height='22' fill='#404444'></rect>
+  <rect x='90'  y='54' width='22' height='22' fill='#222626'></rect>
+  <rect x='116' y='54' width='22' height='22' fill='#081212'></rect>
+</svg>
