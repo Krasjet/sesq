@@ -24,6 +24,7 @@ class Sesq(Style):
     Sesquichromatic syntax highlighting, for karasu.
     """
     background_color = white
+    highlight_color = select
 
     default_style = ""
 
