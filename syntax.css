@@ -1,3 +1,4 @@
+.sourceCode .hll { background-color: #dce0e0 }
 .sourceCode  { background: #f4f7f7; }
 .sourceCode .c { color: #909494 } /* Comment */
 .sourceCode .err { color: #FF6363 } /* Error */
@@ -65,3 +66,4 @@
 .sourceCode .vi { color: #5c6060; font-style: italic } /* Name.Variable.Instance */
 .sourceCode .vm { color: #5c6060; font-style: italic } /* Name.Variable.Magic */
 .sourceCode .il { color: #818AC2; font-weight: bold } /* Literal.Number.Integer.Long */
+.sourceCode .hll { display: block; }
