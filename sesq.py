@@ -55,7 +55,7 @@ class Sesq(Style):
 
         String: blue,
         String.Symbol: "italic " + lightblue,
-        String.Backtick: "" + lightblue,
+        String.Backtick: lightblue,
 
         Number: "bold " + purple,
 
