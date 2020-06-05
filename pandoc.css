@@ -24,30 +24,30 @@
 .sourceCode pre ::selection { background-color: var(--select); }
 .sourceCode .al { color: var(--error); } /* Alert */
 .sourceCode .an { color: var(--gray02); font-weight: bold; } /* Annotation */
-.sourceCode .at { color: var(--gray05); font-style: italic; } /* Attribute */
+.sourceCode .at { color: var(--gray05); font-weight: 500; } /* Attribute */
 .sourceCode .bn { color: var(--purple); font-weight: bold; } /* BaseN */
-.sourceCode .bu { color: var(--gray04); font-style: italic; } /* BuiltIn */
-.sourceCode .cf { color: var(--gray01); font-style: italic; } /* ControlFlow */
+.sourceCode .bu { color: var(--gray04); font-weight: 500; } /* BuiltIn */
+.sourceCode .cf { color: var(--gray01); font-weight: 500; } /* ControlFlow */
 .sourceCode .ch { color: var(--blue); } /* Char */
 .sourceCode .cn { color: var(--gray03); font-weight: bold; } /* Constant */
 .sourceCode .co { color: var(--gray06); } /* Comment */
-.sourceCode .cv { color: var(--gray06); font-style: italic; } /* CommentVar */
+.sourceCode .cv { color: var(--gray06); font-weight: 500; } /* CommentVar */
 .sourceCode .do { color: var(--blue); } /* Documentation */
 .sourceCode .dt { color: var(--black); font-weight: bold; } /* DataType */
 .sourceCode .dv { color: var(--purple); font-weight: bold; } /* DecVal */
 .sourceCode .er { color: var(--error); } /* Error */
 .sourceCode .fl { color: var(--purple); font-weight: bold; } /* Float */
-.sourceCode .fu { color: var(--gray04); font-style: italic; text-decoration: underline; } /* Function */
+.sourceCode .fu { color: var(--gray04); font-weight: 500; text-decoration: underline; } /* Function */
 .sourceCode .in { color: var(--gray06); font-weight: bold; } /* Information */
-.sourceCode .kw { color: var(--gray01); font-style: italic; } /* Keyword */
-.sourceCode .op { color: var(--black); font-style: italic; } /* Operator */
+.sourceCode .kw { color: var(--gray01); font-weight: 500; } /* Keyword */
+.sourceCode .op { color: var(--black); font-weight: 500; } /* Operator */
 .sourceCode .ot { color: var(--gray01) } /* Other */
-.sourceCode .pp { color: var(--gray06); font-style: italic; } /* Preprocessor */
+.sourceCode .pp { color: var(--gray06); font-weight: 500; } /* Preprocessor */
 .sourceCode .sc { color: var(--blue); } /* SpecialChar */
 .sourceCode .ss { color: var(--lightblue); } /* SpecialString */
 .sourceCode .st { color: var(--blue); } /* String */
-.sourceCode .va { color: var(--gray04); font-style: italic; } /* Variable */
+.sourceCode .va { color: var(--gray04); font-weight: 500; } /* Variable */
 .sourceCode .vs { color: var(--blue); } /* VerbatimString */
 .sourceCode .wa { color: var(--gray06); font-weight: bold; } /* Warning */
 
-.json .fu { color: var(--black); font-style: italic; text-decoration: none; } /* Operator */
+.json .fu { color: var(--black); font-weight: 500; text-decoration: none; } /* Operator */
