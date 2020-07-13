@@ -1,5 +1,5 @@
 sesq
-----
+====
 
 <p align="center">
   <img width=480 src="https://krasjet.com/voice/sesq/imgs/palette.svg">
@@ -17,7 +17,7 @@ introduction.
 </p>
 
 Usage
-=====
+-----
 
 ```
 sesq.py:
@@ -33,7 +33,7 @@ Note that `italic` in the color theme definition means "medium" weight, not
 actual italics. Pygments only support one font weight, so I have to use a hack.
 
 License
-=======
+-------
 
 sesq is licensed under [CC BY-NC 4.0][cc] license.
 
