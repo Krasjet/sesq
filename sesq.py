@@ -61,7 +61,7 @@ class Sesq(Style):
 
         Generic.Heading: "bold " + black,
         Generic.Subheading: "italic " + black,
-        Generic.Output: "bold " + gray05,
+        Generic.Output: "italic " + gray05,
         Generic.Prompt: "italic " + gray02,
         Generic.Emph: "italic " + black,
         Generic.Strong: "bold " + black,
